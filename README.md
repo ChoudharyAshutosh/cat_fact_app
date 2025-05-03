@@ -12,7 +12,7 @@ First you will need to install modules.
 npm install
 
 # OR using Yarn
-yarn yarn
+yarn install
 ```
 
 ## Step 2: Start Metro
